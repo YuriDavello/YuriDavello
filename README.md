@@ -14,13 +14,23 @@
 <a href="https://github.com/yuridavello/"><img src="https://img.shields.io/github/followers/yuridavello?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/yuridavello?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuridavello&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Olá, me chamo Yuri Davello e tenho 20 anos. Tenho vasto interesse em computação, especialmente na área de programação back-end voltada pra iOS e Web.</p>
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
 
 <p align="left">
-  💌 Entre em contato comigo: ⤵️
+  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
 <p align="left">
