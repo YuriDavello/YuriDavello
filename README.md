@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
- 👨🏻‍💻�🍀 Linguagens: <strong>Olá, me chamo Yuri Davello e tenho 20 anos. Tenho vasto interesse em computação, especialmente na área de programação back-end voltada pra iOS e Web.</strong>
+ 👨🏻‍💻🍀 Linguagens: <strong>Olá, me chamo Yuri Davello e tenho 20 anos. Tenho vasto interesse em computação, especialmente na área de programação back-end voltada pra iOS e Web.</strong>
 </p>
 
 <p align="left">
