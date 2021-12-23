@@ -22,15 +22,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Olá, me chamo Yuri Davello e tenho 20 anos. Tenho vasto interesse em computação, especialmente na área de programação back-end voltada pra iOS e Web..</strong>
+ 👨🏻‍💻�🍀 Linguagens: <strong>Olá, me chamo Yuri Davello e tenho 20 anos. Tenho vasto interesse em computação, especialmente na área de programação back-end voltada pra iOS e Web.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato comigo: ⤵️
 </p>
 
 <div> 
