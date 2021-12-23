@@ -17,11 +17,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Estudante de Análise e Desenvolvimento de Sistemas 20 anos Cursando o quarto semestre e procurando sempre evoluir no aprendizado.
-</p>
+Olá, me chamo Yuri Davello e tenho 20 anos. Tenho vasto interesse em computação, especialmente na área de programação back-end voltada pra iOS e Web.</p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato comigo: ⤵️
 </p>
 
 <p align="left">
