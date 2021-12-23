@@ -1,7 +1,7 @@
 <div style="display: inline_block"><br>
    <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/spring/spring-original-wordmark.svg" />
    <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original-wordmark.svg" />
-   <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/angularjs/angularjs-original-wordmark.svg" />
+   <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" />
    <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" />
 </div>
