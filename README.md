@@ -14,7 +14,7 @@
 <a href="https://github.com/yuridavello/"><img src="https://img.shields.io/github/followers/yuridavello?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/yuridavello?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
 <p align="left"> 
 Olá, me chamo Yuri Davello e tenho 20 anos. Tenho vasto interesse em computação, especialmente na área de programação back-end voltada pra iOS e Web.</p>
