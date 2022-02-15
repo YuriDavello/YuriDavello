@@ -1,13 +1,10 @@
 <div style="display: inline_block"><br>
-   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original-wordmark.svg" />
-   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original-wordmark.svg" />
-   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original-wordmark.svg" />
-   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/spring/spring-original-wordmark.svg" />
-   <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/spring/spring-original-wordmark.svg" />
-   <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original-wordmark.svg" />
-   <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" />
-   <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" />
+       <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nodejs/nodejs-original-wordmark.svg" />
+       <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
+       <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />
+       <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
+       <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" />
+       <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" />
 </div>
  <br>
  <br>
