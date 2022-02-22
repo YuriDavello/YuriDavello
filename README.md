@@ -1,4 +1,4 @@
-<h1> 🔭 I'm currently working as Software Engineer at @Iteris/Briteris and working with the following technologies </h1>
+<h3> 🔭 I'm currently working as Software Engineer at SPS Group and working with the following technologies </h3>
 <div style="display: inline_block"><br>
        <img align="center"  height="100" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nodejs/nodejs-original-wordmark.svg" />
        <img align="center"  height="100" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
