@@ -20,7 +20,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
- 👨🏻‍💻🍀 <strong>Olá, me chamo Yuri Davello e tenho 20 anos. Tenho vasto interesse em computação, especialmente na área de programação back-end voltada pra iOS e Web.</strong>
+ 👨🏻‍💻🍀 <strong>Olá, me chamo Yuri Davello e tenho 21 anos. Tenho vasto interesse em computação, especialmente na área de programação back-end voltada pra iOS e Web.
+ Atualmente trabalho como desenvolvedor full-stack, utilizando as ferramentas Node e React.</strong>
 </p>
 
 <p align="left">
